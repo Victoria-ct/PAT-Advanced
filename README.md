@@ -33,3 +33,12 @@
 | 1029 | Median  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1029.cpp) |
 | 1030 | Travel Plan |  |  |
 | 1031 | Hello World for U  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1031.cpp) |
+| 1035 | Password  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1035.cpp) |
+| 1036 | Boys vs Girls  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1036.cpp) |
+| 1038 | Recover the Smallest Number  | 贪心 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1038.cpp) |
+| 1040 | Longest Symmetric String  | 动态规划 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1040.cpp) |
+| 1041 | Be Unique  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1041.cpp) |
+| 1042 | Shuffling Machine  | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1042.cpp) |
+| 1049 | Counting Ones  | 数学问题 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1049.cpp) |
+| 1050 | String Subtraction  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1050.cpp) |
+| 1051 | Pop Sequence  | 栈模拟 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1051.cpp) |
