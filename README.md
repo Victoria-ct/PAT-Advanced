@@ -24,13 +24,13 @@
 | 1020 | Tree Traversals | 树的遍历 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1020.cpp) |
 | 1021 |  Deepest Root | graph DFS | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1021.cpp) |
 | 1022 | Digital Library | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1022.cpp) |
-| 1023 | Have Fun with Numbers | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1023.cpp) |
-| 1024 | Palindromic Number | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1024.cpp) |
+| 1023 | Have Fun with Numbers | 大整数运算 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1023.cpp) |
+| 1024 | Palindromic Number | 大整数运算 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1024.cpp) |
 | 1025 | PAT Ranking | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1025.cpp) |
 | 1026 | 	Table Tennis |  |  |
 | 1027 | Colors in Mars  | 进制转换 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1027.cpp) |
 | 1028 | 	List Sorting | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1028.cpp) |
-| 1029 | Median  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1029.cpp) |
+| 1029 | Median  | 归并 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1029.cpp) |
 | 1030 | Travel Plan |  |  |
 | 1031 | Hello World for U  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1031.cpp) |
 | 1035 | Password  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1035.cpp) |
