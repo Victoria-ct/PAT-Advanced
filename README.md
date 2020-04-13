@@ -36,9 +36,11 @@
 | 1035 | Password  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1035.cpp) |
 | 1036 | Boys vs Girls  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1036.cpp) |
 | 1038 | Recover the Smallest Number  | 贪心 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1038.cpp) |
+| 1039 | 	Course List for Student | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1039.cpp) |
 | 1040 | Longest Symmetric String  | 动态规划 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1040.cpp) |
 | 1041 | Be Unique  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1041.cpp) |
 | 1042 | Shuffling Machine  | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1042.cpp) |
+| 1043 | 	Is It a Binary Search Tree  | BST  | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1043.cpp) |
 | 1049 | Counting Ones  | 数学问题 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1049.cpp) |
 | 1050 | String Subtraction  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1050.cpp) |
 | 1051 | Pop Sequence  | 栈模拟 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1051.cpp) |
