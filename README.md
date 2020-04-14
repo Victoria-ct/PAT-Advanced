@@ -44,3 +44,7 @@
 | 1049 | Counting Ones  | 数学问题 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1049.cpp) |
 | 1050 | String Subtraction  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1050.cpp) |
 | 1051 | Pop Sequence  | 栈模拟 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1051.cpp) |
+| 1054 | The Dominant Color  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1054.cpp) |
+| 1058 | 	A+B in Hogwarts  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1058.cpp) |
+| 1060 |  Are They Equal  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1060.cpp) |
+| 1061 |  Dating  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1061.cpp) |
