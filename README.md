@@ -31,8 +31,9 @@
 | 1027 | Colors in Mars  | 进制转换 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1027.cpp) |
 | 1028 | 	List Sorting | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1028.cpp) |
 | 1029 | Median  | 归并 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1029.cpp) |
-| 1030 | Travel Plan |  |  |
+| 1030 | Travel Plan  | 最短路径 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1030.cpp) |
 | 1031 | Hello World for U  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1031.cpp) |
+| 1032* | 	Sharing  | 链表 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1032.cpp) |
 | 1035 | Password  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1035.cpp) |
 | 1036 | Boys vs Girls  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1036.cpp) |
 | 1038 | Recover the Smallest Number  | 贪心 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1038.cpp) |
@@ -41,6 +42,7 @@
 | 1041 | Be Unique  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1041.cpp) |
 | 1042 | Shuffling Machine  | 排序 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1042.cpp) |
 | 1043 | 	Is It a Binary Search Tree  | BST  | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1043.cpp) |
+| 1046 | 	Shortest Distance  | 数学问题  | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1046.cpp) |
 | 1049 | Counting Ones  | 数学问题 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1049.cpp) |
 | 1050 | String Subtraction  | 哈希 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1050.cpp) |
 | 1051 | Pop Sequence  | 栈模拟 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1051.cpp) |
