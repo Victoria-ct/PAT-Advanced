@@ -50,3 +50,7 @@
 | 1058 | 	A+B in Hogwarts  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1058.cpp) |
 | 1060 |  Are They Equal  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1060.cpp) |
 | 1061 |  Dating  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1061.cpp) |
+| 1152 |  Google Recruitment  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1152.cpp) |
+| 1153 |  Decode Registration Card of PAT  | 数据处理 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1153.cpp) |
+| 1154 |  	Vertex Coloring  | 图 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1154.cpp) |
+| 1155* |  Google Recruitment  | 堆、完全二叉树 | [`C++`](https://github.com/ATeletubby/PAT-Advanced/blob/master/pat_advanced/1155.cpp) |
